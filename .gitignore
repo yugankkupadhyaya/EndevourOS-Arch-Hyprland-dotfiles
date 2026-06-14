@@ -1,0 +1,76 @@
+## Security / Secrets
+**/id_rsa*
+**/id_ed25519*
+**/*.pem
+**/*.key
+**/*.cert
+**/.env
+**/.env.*
+**/credentials
+**/credentials.txt
+**/*credentials*
+**/secrets*
+**/*token*
+**/*.token
+**/auth*
+**/oauth*
+
+## GPG
+**/secring.gpg
+**/private-keys-v1.d
+**/gnupg
+
+## Browser profiles
+**/.mozilla/firefox/*.default*/
+**/.config/BraveSoftware
+**/.config/chromium
+**/.config/google-chrome
+
+## Cache / Temp
+**/.cache
+**/__pycache__
+**/*.pyc
+**/.npm
+**/.gradle
+**/go/pkg
+**/.local/share/Trash
+**/.local/share/gvfs-metadata
+
+## OS / System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+\#*\#
+.\#*
+
+## Large generated / downloaded files
+**/node_modules
+**/target
+**/venv
+**/.venv
+**/vendor/bundle
+**/.tmux/plugins/tpm
+*.iso
+*.img
+*.bin
+*.tar.gz
+*.tar.xz
+*.zip
+
+## Screenshots
+**/Pictures/Screenshots
+
+## Local overrides
+backups/
+docs/
+
+## Editor / IDE
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
+
+## Repo-local ignores
+.DS_Store

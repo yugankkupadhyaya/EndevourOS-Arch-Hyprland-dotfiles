@@ -1,0 +1,21 @@
+# AUR Packages — Install via yay or paru
+# Generated: 2026-06-14
+# Install: yay -S --needed - < packages/aur.txt
+
+## AUR Packages
+brave-bin
+visual-studio-code-bin
+zen-browser-bin
+spotify
+oh-my-posh
+sublime-text-4
+fresh-editor-bin
+whitesur-icon-theme
+pokemon-colorscripts-git
+sddm-astronaut-theme
+apple_cursor
+wlogout
+cbonsai
+pipes.sh
+tint
+ttf-segoe-ui-variable

@@ -1,0 +1,7 @@
+# Global npm packages
+# Generated: 2026-06-14
+
+@anthropic-ai/claude-code
+node-gyp
+nopt
+semver

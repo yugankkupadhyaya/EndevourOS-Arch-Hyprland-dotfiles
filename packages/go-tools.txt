@@ -1,0 +1,2 @@
+# Go-installed tools — (none detected on live system)
+# Generated: 2026-06-14
