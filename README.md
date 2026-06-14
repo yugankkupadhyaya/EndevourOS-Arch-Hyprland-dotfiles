@@ -1,5 +1,5 @@
 # EndeavourOS + Hyprland Dotfiles
-
+yuggudons configs
 Personal dotfiles and automated setup for an EndeavourOS Arch Linux system running Hyprland Wayland compositor.
 
 ## Overview
